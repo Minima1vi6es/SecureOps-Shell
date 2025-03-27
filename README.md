@@ -4,7 +4,7 @@ A custom hacker-themed terminal experience for Kali Linux, designed by Mark Gust
 
 ![Launch - VPN Off](screenshots/launch_no-vpn.png)
 ![Launch - VPN On](screenshots/launch_vpn-on.png)
-![Shell in Action](screenshots/sample_commands.png)
+![Shell in Action](screenshots/terminal_sample_commands.png)
 
 ---
 
