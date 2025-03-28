@@ -1,6 +1,6 @@
 # 🛡️ SecureOps Shell
 
-A custom hacker-themed terminal experience for Kali Linux, designed by Mark Gustafson a.k.a. `M3rl1nT3cH`. SecureOps Shell includes a beautiful Powerlevel10k prompt, VPN awareness, dynamic IP visibility, interface detection, and a slick digital fortress greeting every time you launch your terminal.
+A custom hacker-themed terminal experience for Kali Linux, designed by Mark Gustafson. SecureOps Shell includes a beautiful Powerlevel10k prompt, VPN awareness, dynamic IP visibility, interface detection, and a slick digital fortress greeting every time you launch your terminal.
 
 ![Launch - VPN Off](screenshots/launch_no-vpn.png)
 ![Launch - VPN On](screenshots/launch_vpn-on.png)
